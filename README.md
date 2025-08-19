@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm a Cloud Data Engineer</h1>
 <p>
 🚀 Passionate GCP Cloud Data Engineer with 2.6+ years of experience delivering scalable, high-performance data solutions for enterprise applications. Skilled in designing real-time streaming and batch processing pipelines that transform raw data into actionable insights. Focused on building robust data architectures, optimizing performance, and enabling organizations to unlock the full potential of their data. </p>
----
+
 
 ## 📈 What I Do Best  
 - ✅ **Batch Pipelines:** Large-scale ETL workflows with Airflow & Dataproc for cost-efficient processing  
