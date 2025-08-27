@@ -4,8 +4,8 @@
 ## 📈 What I Do Best  
 - ✅ **Batch Pipelines:** Large-scale ETL workflows with Airflow & Dataproc for cost-efficient processing  
 - ✅ **Real-Time Pipelines:** Ingest & process millions of events/sec using Kafka, Pub/Sub & Spark Streaming  
-- ✅ **Data Warehousing & Analytics:** Optimized schemas & queries in BigQuery, Hive, and Snowflake  
-- ✅ **Performance Tuning:** Reduced processing costs & latency via partitioning, caching & autoscaling  
+- ✅ **Data Warehousing & Analytics:** Optimized schemas & queries in BigQuery, Hive, and Snowflake
+- ✅ **Performance Tuning:** Reduced processing costs & latency via partitioning, caching & autoscaling
 - ✅ **Multi-Cloud & Hybrid:** Seamless integration of GCP with external sources & on-prem systems  
 
 
