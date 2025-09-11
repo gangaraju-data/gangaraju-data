@@ -58,7 +58,7 @@ I aspire to grow into a **Data Architect / Cloud Solutions Expert**, designing n
         <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api?username=gangaraju-data&show_icons=true&theme=tokyonight" />
       </td>
     </tr>
   </table>
