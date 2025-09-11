@@ -24,18 +24,22 @@
 
 ## 🎓 Education  
 - ![Masters](https://img.shields.io/badge/Masters%20of%20Science%20-Data%20Science-ff6600?style=flat&logo=googlecolab&logoColor=white)  ***Kalasalingam Academy of Research and Education, Krishnankoil, Tamil Nadu*** | 2024 - 2026 (Pursuing)
-- ![Bachelor of Technology (B.Tech)](https://img.shields.io/badge/Bachelor%20of%20Technology%20(B.Tech)-Computer%20%26%20Science%20&%20Engineering%20(CSE)-blue?style=flat&logo=graduationcap&logoColor=white)  ***Kuppam Engineering College  affiliated to JNTUA, Andhra Pradesh*** | 2018 – 2022  
+- ![Bachelor of Technology (B.Tech)](https://img.shields.io/badge/Bachelor%20of%20Technology%20(B.Tech)-Computer%20%26%20Science%20&%20Engineering%20(CSE)-blue?style=flat&logo=graduationcap&logoColor=white)  ***Kuppam Engineering College, affiliated to JNTUA, Andhra Pradesh*** | 2018 – 2022  
 
-## 🏅 Certifications
-- ![UCSD](https://img.shields.io/badge/Big%20Data%20Specialization-UC%20San%20Diego-blue?logo=coursera&logoColor=white)
-- ![Google IT Automation](https://img.shields.io/badge/Google%20IT%20Automation%20with%20Python%20Professional%20Certificate-Coursera-green?logo=google&logoColor=white)  
+## 🏅 Licenses & Certifications 
+- ![UCSD](https://img.shields.io/badge/Big%20Data%20Specialization-University%20of%20California%20San%20Diego-blue?logo=coursera&logoColor=white)
+- ![Databricks Fundamentals](https://img.shields.io/badge/Databricks%20Fundamentals-Databricks-FF3621?logo=databricks&logoColor=white) 
+- ![Google IT Automation](https://img.shields.io/badge/Google%20IT%20Automation%20with%20Python%20Professional%20Certificate-Coursera-green?logo=google&logoColor=white)
+- ![Google Project Management](https://img.shields.io/badge/Google%20Project%20Management%20Professional%20Certificate-Coursera-green?logo=google&logoColor=white)  
 - ![IBM AI](https://img.shields.io/badge/IBM%20AI%20Engineering%20Professional%20Certificate-Coursera-blue?logo=ibm&logoColor=white)  
+
 
 
 ## 🎯 Career Vision  
 I aspire to grow into a **Data Architect / Cloud Solutions Expert**, designing next-gen platforms that enable enterprises to scale effortlessly with real-time and batch data solutions. My focus is on **innovation, automation, and performance optimization**, ensuring data truly becomes a strategic asset for businesses.  
 
-🌱 I’m always eager to learn, explore new technologies, and contribute to solving complex data challenges that drive real business value.
+🌱 I’m always eager to learn, exploring emerging technologies, and contribute to solving complex data challenges that drive real business value.
+
 
 ## 📩 Open To  
 **Data Engineer | Big Data Engineer | Cloud Data Engineer** opportunities  
